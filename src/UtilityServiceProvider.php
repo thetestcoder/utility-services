@@ -5,7 +5,7 @@ namespace TheTestCoder\UtilityServices;
 
 
 use Illuminate\Support\ServiceProvider;
-use Softnio\UtilityServices\Processor\ChecklistProcessor;
+use TheTestCoder\UtilityServices\Processor\ChecklistProcessor;
 
 class UtilityServiceProvider extends ServiceProvider
 {
