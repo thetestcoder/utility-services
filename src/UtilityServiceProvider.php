@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Softnio\UtilityServices;
+namespace TheTestCoder\UtilityServices;
 
 
 use Illuminate\Support\ServiceProvider;

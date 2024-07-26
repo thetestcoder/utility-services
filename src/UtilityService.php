@@ -1,6 +1,6 @@
 <?php
 
-namespace Softnio\UtilityServices;
+namespace TheTestCoder\UtilityServices;
 
 use App\Models\Setting;
 use App\Services\SettingsService;

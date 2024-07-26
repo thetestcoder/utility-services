@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Cache;
-use Softnio\UtilityServices\UtilityService;
+use TheTestCoder\UtilityServices\UtilityService;
 
 if (!function_exists('site_info')) {
     function site_info($output = 'name')

@@ -1,6 +1,6 @@
 <?php
 
-namespace Softnio\UtilityServices\Controllers;
+namespace TheTestCoder\UtilityServices\Controllers;
 
 use App\Models\User;
 use App\Http\Controllers\Controller;
@@ -8,7 +8,7 @@ use App\Services\HealthCheckService;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Validation\ValidationException;
 use Illuminate\Http\Request;
-use Softnio\UtilityServices\UtilityService;
+use TheTestCoder\UtilityServices\UtilityService;
 
 class UtilityServiceController extends Controller
 {

@@ -1,17 +1,17 @@
 {
-    "name": "softnio/utility-services",
+    "name": "thetestcoder/utility-services",
     "description": "Utility services for application.",
     "authors": [
         {
-            "name": "Softnio",
-            "email": "info@softnio.com"
+            "name": "Deep",
+            "email": "thetestcoder@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Softnio\\UtilityServices\\": "src/"
+            "TheTestCoder\\UtilityServices\\": "src/"
         },
         "files": [
             "src/assistant.php"
@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Softnio\\UtilityServices\\UtilityServiceProvider"
+                "TheTestCoder\\UtilityServices\\UtilityServiceProvider"
             ]
         }
     }
